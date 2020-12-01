@@ -1,3 +1,11 @@
+/**
+ * @author Benjamin Peronne
+ * @email contact@benjaminperonne.fr
+ * @create date 2020-11-26 20:47:29
+ * @modify date 2020-11-26 20:47:29
+ * @desc [headers (struct + prototype)]
+ */
+
 
 #ifndef prepas_h
 #define prepas_h

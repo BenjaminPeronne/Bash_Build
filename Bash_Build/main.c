@@ -1,4 +1,10 @@
-/* En accord avec le groupe, les noms de variables seront en anglais */
+/**
+ * @author Benjamin Peronne
+ * @email contact@benjaminperonne.fr
+ * @create date 2020-11-26 20:46:22
+ * @modify date 2020-11-26 20:46:22
+ * @desc [main]
+ */
 
 #include <stdbool.h>
 #include <stdio.h>
